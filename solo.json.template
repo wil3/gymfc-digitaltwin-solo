@@ -1,0 +1,15 @@
+{
+    "model_dir": "",
+    "model": "",
+    "plugin_dir": "",
+    "motor_count": 4,
+    "sensors": {
+        "supported": ["imu", "esc"],
+        "measurements":
+            [
+                {
+                    "name": "imu_angular_velocity_rpy"
+                }
+            ]
+    }
+}
