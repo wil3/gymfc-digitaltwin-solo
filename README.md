@@ -23,6 +23,6 @@ Each digital twin is defined by its configuration file.
 
 1) Clone and build the [GymFC Aircraft Plugins](https://github.com/wil3/gymfc-aircraft-plugins) repo.
 2) Rename `solo.json.template` to `solo.json`.
-3) Set `model_dir` to "<path to this repo>/models"  
-4) Set `model` to "<path to this repo>/models/solo/model.sdf"
-3) Set `plugin_dir` to "<path to GymFC Aircraft Plugins repo>/build"
+3) Set `model_dir` to "[path to this repo]/models"  
+4) Set `model` to "[path to this repo]/models/solo/model.sdf"
+3) Set `plugin_dir` to "[path to GymFC Aircraft Plugins repo]/build"
